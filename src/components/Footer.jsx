@@ -68,7 +68,7 @@ const Footer = () => {
                     <ul className="space-y-3">
                         <li className="flex items-center gap-3">
                             <FaPhoneAlt className="text-green-400" />
-                            <span>+221 770324629</span>
+                            <span>+221 771341649</span>
                         </li>
                         <li className="flex items-center gap-3">
                             <MdEmail className="text-red-400" />
@@ -76,7 +76,7 @@ const Footer = () => {
                         </li>
                         <li className="flex items-center gap-3">
                             <FaMapMarkerAlt className="text-yellow-400" />
-                            <span>Dakar, Sénégal</span>
+                            <span>Thiés, Sénégal</span>
                         </li>
                     </ul>
                 </div>

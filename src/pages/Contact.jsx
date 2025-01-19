@@ -31,7 +31,7 @@ const Contact = () => {
 
                 {/* Right Section */}
                 <div className="lg:w-1/2 bg-white p-8 rounded-lg shadow-md">
-                    <span className="font-bold">* Information personnel</span>
+                    <span className="font-bold">* Information personnel *</span>
                     <form action="" method="POST">
                         {/* Name Field */}
                         <div className="relative my-4">
